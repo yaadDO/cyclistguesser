@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "223188090153",
+    "project_id": "cyclistguesser",
+    "storage_bucket": "cyclistguesser.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223188090153:android:d567707ba3abbcdbc8cb38",
+        "android_client_info": {
+          "package_name": "com.once.cyclistguesser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2JqdyMRyqyGZEeuLrSQAU6DaPFZhXebc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
